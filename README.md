@@ -1,22 +1,6 @@
-```markdown
-# 🌐 Free IP Stresser V6 - Ultimate Network Stress Testing Tool
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/kuroyaii/free-ip-stresser) ![License](https://img.shields.io/badge/license-MIT-brightgreen) ![Issues](https://img.shields.io/github/issues/kuroyaii/free-ip-stresser) ![Forks](https://img.shields.io/github/forks/kuroyaii/free-ip-stresser) ![Stars](https://img.shields.io/github/stars/kuroyaii/free-ip-stresser)
 
-## 🚀 Introduction
 
-Welcome to the **Free IP Stresser** repository! This tool is designed for educational network stress testing. It features over 40 attack methods and 20 API tools. The aim is to provide a safe environment for authorized users to explore and understand network stress testing. This tool is developed by [Nightmare Stresser](https://nightmare-stresser.co) and is intended for educational purposes only.
-
-### 📚 Table of Contents
-
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Topics](#topics)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-- [Links](#links)
 
 ## 🌟 Features
 
@@ -59,9 +43,7 @@ Once you have installed the tool, you can start using it to perform authorized s
 3. **Configure Settings**: Adjust any parameters as needed for your test.
 4. **Start Testing**: Click the 'Start' button to begin the stress test.
 
-### ⚠️ Important
 
-Only use this tool on networks you own or have explicit permission to test. Unauthorized use can lead to legal consequences.
 
 ## 🗂️ Topics
 
@@ -103,19 +85,5 @@ We welcome contributions from the community. If you want to contribute, please f
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## 📞 Contact
 
-For any inquiries or issues, feel free to reach out:
 
-- **Email**: contact@nightmare-stresser.co
-- **Website**: [Nightmare Stresser](https://nightmare-stresser.co)
-
-## 🔗 Links
-
-To download the latest release, visit [Releases](https://github.com/kuroyaii/free-ip-stresser/releases). Ensure you follow the provided instructions to execute the file properly.
-
-## 🎉 Conclusion
-
-Thank you for exploring the **Free IP Stresser**. We hope you find it a useful tool for your educational network stress testing needs. Remember to use it responsibly and ethically.
-
-```
